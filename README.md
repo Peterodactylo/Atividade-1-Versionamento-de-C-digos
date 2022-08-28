@@ -13,5 +13,5 @@
 6. Instalado o [VSCode](https://code.visualstudio.com/) para lidar com os problemas de mesclar duas branches diferentes
 7. Lembrar sempre de usar git push origin main para jogar as alterações feitas na máquina para o repositório  e o git pull para puxar as alterações realizadas no remoto antes de iniciar as alterações na máquina pessoal
 8. Postado no GitHub para avaliação
-9. Criado o READ.ME
+9. Criado o READ.ME  
 ! [Imagem 01](https://apkpure.com/br/inspiring-success-quotes/com.mixlabapps.inspiringsuccessquotes "logotipo branco")
