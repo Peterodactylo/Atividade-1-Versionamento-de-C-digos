@@ -3,7 +3,7 @@
 -------------------------------------------------------------
 
 #### Etapas do processo:
-1. Instalado o Git no PC 
+1. Instalado o [Git](https://git-scm.com/) no PC 
 2. Criada uma pasta para demonstrações na aula, chamada AulaGit
 3. Começar o controle de versão na mesma utilizando o Git Bash Here, utilizando o código  git init para iniciar o processo
 4. Controlar as versões da pasta, a cada alteração feita no documento de texto Git.txt,  dentro da pasta AulaGit
