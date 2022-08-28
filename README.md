@@ -1,8 +1,8 @@
-#PFS_UC7 - Versionamento - Turma 17
-##Atividades 1 e 3:Versionamento de Códigos e Encontro Remoto
+# PFS_UC7 - Versionamento - Turma 17
+## Atividades 1 e 3:Versionamento de Códigos e Encontro Remoto
 -------------------------------------------------------------
 
-####Etapas do processo:
+#### Etapas do processo:
 1. Instalado o Git no PC 
 2. Criada uma pasta para demonstrações na aula, chamada AulaGit
 3. Começar o controle de versão na mesma utilizando o Git Bash Here, utilizando o código  git init para iniciar o processo
